@@ -1,1 +1,4 @@
-print('version1')
+for i in range(10):
+    print(i)
+
+print("hello world")
